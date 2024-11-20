@@ -1,5 +1,8 @@
 # **FastAPI RAG with PostgreSQL and Nebius**
 
+<img width="1364" alt="Screenshot 2024-11-20 at 13 02 01" src="https://github.com/user-attachments/assets/d3f9d33b-fd43-4d98-9c04-c0df3019ca0b">
+
+
 ## **Overview**
 This project demonstrates a **Retrieval-Augmented Generation (RAG)** implementation using **FastAPI** as the web framework, **PostgreSQL** (managed by **Nebius**) as the database, and vector search for chunk similarity. It processes uploaded files (text or PDF), extracts content, embeds the content using vector embeddings, and provides endpoints to ask questions based on the embedded content.
 
