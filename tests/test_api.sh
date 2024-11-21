@@ -11,5 +11,5 @@ curl -X 'POST' 'http://localhost:8000/ask/' \
 -H "Content-Type: application/json" \
 -d '{
   "question": "Who is the president of the United States according to the context provided?",
-  "document_id": 12
+  "document_id": 1
 }'
